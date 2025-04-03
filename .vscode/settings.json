@@ -1,6 +1,0 @@
-{
-  "files.associations": {
-    "setjmp.h": "c",
-    "stdio.h": "c"
-  }
-}
